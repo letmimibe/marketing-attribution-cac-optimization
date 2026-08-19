@@ -18,7 +18,8 @@ This project evaluates multi-channel marketing performance for an e-commerce ent
 3. **CAC Threshold Variance:** Specific paid channels exceeded the targeted CAC baseline of $15.00, highlighting immediate opportunities for spend re-allocation.
 
 ## Dashboard Preview
-https://datastudio.google.com/reporting/1b8caa11-a625-4446-be92-bc85cb9b784e
+<img width="1512" height="982" alt="Screenshot 2026-08-19 at 19 02 22" src="https://github.com/user-attachments/assets/1e2ecd98-2e37-45e1-95f5-9f0d2c9a98f1" />
+
 
 ## Execution Instructions
 1. Execute `python generate_data.py` to synthesize the raw transaction and ad spend datasets.
